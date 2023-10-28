@@ -1,0 +1,1672 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 5349px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle3 {
+  position: absolute;
+  left: 1128px;
+  top: 36px;
+  width: 151px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #000;
+}
+.letSTalk {
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1131px;
+  top: 46px;
+  width: 146px;
+  height: 44px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle4 {
+  position: absolute;
+  left: 0;
+  top: 124px;
+  width: 1440px;
+  height: 357px;
+  background-color: #fffdfc;
+}
+.helloIMSanchit {
+  color: #d85555;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 736px;
+  top: 143px;
+  width: 392px;
+  height: 48px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.hireMeNow {
+  color: #000;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 781px;
+  top: 414px;
+  width: 301px;
+  height: 48px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.professionalDataEngineerBIDeve {
+  position: absolute;
+  left: 765px;
+  top: 192px;
+  width: 594px;
+  height: 178px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #000;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle5 {
+  position: absolute;
+  left: 793px;
+  top: 408px;
+  width: 47px;
+  height: 41px;
+  border-radius: 0 10px 0 0;
+  background-color: #d85555;
+}
+.arrow1 {
+  position: absolute;
+  left: 805px;
+  top: 419px;
+  width: 19px;
+  height: 19.0238px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.line1 {
+  position: absolute;
+  left: 745px;
+  top: 390px;
+  width: 428px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.sanchitLogo1 {
+  position: absolute;
+  left: 98px;
+  top: 1px;
+  width: 266px;
+  height: 123px;
+  background-image:/* webpackIgnore: true */ url('assets/sanchitLogo1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sanchitWebPoster1 {
+  position: absolute;
+  left: 128px;
+  top: 143px;
+  width: 561px;
+  height: 664px;
+  background-image:/* webpackIgnore: true */ url('assets/sanchitWebPoster1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle6 {
+  position: absolute;
+  left: 498px;
+  top: 902px;
+  width: 465.0549px;
+  height: 80px;
+  border-radius: 8.7912px 8.7912px 0 0;
+  background-color: #f4f0ec;
+  box-shadow: 0px 3.5165px 3.5165px 0px #00000040;
+}
+.services {
+  color: #000;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 537px;
+  top: 917px;
+  width: 392px;
+  height: 91px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle7 {
+  position: absolute;
+  left: 114px;
+  top: 1021px;
+  width: 289px;
+  height: 286px;
+  border-radius: 10px;
+  background-color: #f4f0ec;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.rectangle9 {
+  position: absolute;
+  left: 744px;
+  top: 1021px;
+  width: 289px;
+  height: 286px;
+  border-radius: 10px;
+  background-color: #f4f0ec;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.rectangle10 {
+  position: absolute;
+  left: 1059px;
+  top: 1021px;
+  width: 289px;
+  height: 286px;
+  border-radius: 10px;
+  background-color: #f4f0ec;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.rectangle8 {
+  position: absolute;
+  left: 429px;
+  top: 1021px;
+  width: 289px;
+  height: 286px;
+  border-radius: 10px;
+  background-color: #f4f0ec;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.ellipse1 {
+  position: absolute;
+  left: 205px;
+  top: 1035px;
+  width: 106px;
+  height: 101px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.dataAnalyst {
+  color: #000;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 119px;
+  top: 1158px;
+  width: 279px;
+  height: 57px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.fromBuildingRobustETLPipelines {
+  color: #d85555;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 134px;
+  top: 1203px;
+  width: 249px;
+  height: 132px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ellipse4 {
+  position: absolute;
+  left: 1143px;
+  top: 1035px;
+  width: 106px;
+  height: 101px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.databaseDeveloper {
+  color: #000;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1064px;
+  top: 1158px;
+  width: 279px;
+  height: 57px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.getYourDatabaseDesignedAndDeve {
+  color: #eb8c00;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1081px;
+  top: 1203px;
+  width: 249px;
+  height: 132px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ellipse3 {
+  position: absolute;
+  left: 835px;
+  top: 1035px;
+  width: 106px;
+  height: 101px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.dataCleaningVisualization {
+  color: #000;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 748px;
+  top: 1149px;
+  width: 279px;
+  height: 57px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.getYourDataFormattedAndAnalize {
+  color: #20831e;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 764px;
+  top: 1215px;
+  width: 249px;
+  height: 132px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ellipse2 {
+  position: absolute;
+  left: 520px;
+  top: 1035px;
+  width: 106px;
+  height: 101px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.cNetDeveloper {
+  color: #000;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 434px;
+  top: 1158px;
+  width: 279px;
+  height: 57px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sanchit1 {
+  position: absolute;
+  left: 128px;
+  top: 143px;
+  width: 561px;
+  height: 664px;
+  background-image:/* webpackIgnore: true */ url('assets/sanchit1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.getYourIdeaDevelopedInTrending {
+  color: #5591d8;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 449px;
+  top: 1203px;
+  width: 249px;
+  height: 132px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.line2 {
+  position: relative;
+  left: 114px;
+  top: 875px;
+  width: 1234px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+}
+.line2::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform-origin: 0 0;
+  transform: rotate(0deg);
+  width: 1234px;
+  height: 0;
+  border-bottom: solid 1px #000;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.dXDIDesign1 {
+  position: absolute;
+  left: 231px;
+  top: 1060px;
+  width: 59px;
+  height: 56px;
+  background-image:/* webpackIgnore: true */ url('assets/dXDIDesign1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.coddingLogo1 {
+  position: absolute;
+  left: 545px;
+  top: 1060px;
+  width: 60px;
+  height: 56px;
+  background-image:/* webpackIgnore: true */ url('assets/coddingLogo1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dataCleaningLogo1 {
+  position: absolute;
+  left: 858px;
+  top: 1056px;
+  width: 66px;
+  height: 64px;
+  background-image:/* webpackIgnore: true */ url('assets/dataCleaningLogo1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle11 {
+  position: absolute;
+  left: 574px;
+  top: 545px;
+  width: 760px;
+  height: 292px;
+  border-radius: 1px;
+  background-color: #f4f0ec;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.focusedITMajorWithMoreThan2Yea {
+  color: #000;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 609px;
+  top: 633px;
+  width: 697px;
+  height: 164px;
+  flex-direction: column;
+}
+.aboutMe {
+  color: #d85555;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 574px;
+  top: 563px;
+  width: 757px;
+  height: 57px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle12 {
+  position: absolute;
+  left: 0;
+  top: 4661px;
+  width: 1440px;
+  height: 688px;
+  background-color: #000;
+}
+.wantToContactMe {
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 239px;
+  top: 4778px;
+  width: 697px;
+  height: 117px;
+  flex-direction: column;
+}
+.pleaseUseTheFormBelowOrSendAnE {
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 250px;
+  top: 4868px;
+  width: 945px;
+  height: 27px;
+  flex-direction: column;
+}
+.name {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 250px;
+  top: 4959px;
+  width: 405px;
+  height: 46px;
+  flex-direction: column;
+}
+.line4 {
+  position: absolute;
+  left: 239px;
+  top: 5014px;
+  width: 941px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fefefe;
+}
+.message {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 250px;
+  top: 5148px;
+  width: 405px;
+  height: 46px;
+  flex-direction: column;
+}
+.line6 {
+  position: absolute;
+  left: 239px;
+  top: 5207.5px;
+  width: 941px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.email {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 250px;
+  top: 5035px;
+  width: 405px;
+  height: 46px;
+  flex-direction: column;
+}
+.line5 {
+  position: absolute;
+  left: 239px;
+  top: 5088px;
+  width: 941px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fefefe;
+}
+.rectangle13 {
+  position: absolute;
+  left: 995px;
+  top: 5253px;
+  width: 185px;
+  height: 55px;
+  border-radius: 5px;
+  background-color: #fefefe;
+}
+.submit {
+  color: #000;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 995px;
+  top: 5253px;
+  width: 185px;
+  height: 55px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle14 {
+  position: absolute;
+  left: 0;
+  top: 1368px;
+  width: 1440px;
+  height: 814px;
+  border-radius: 1px;
+  background-color: #f4f0ec;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.ellipse11 {
+  position: absolute;
+  left: 728px;
+  top: 1890px;
+  width: 222px;
+  height: 225px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.gotAnOpportunityToWorkWithARea {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 991px;
+  top: 1969px;
+  width: 385px;
+  height: 94px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.powerBIVirtualCaseExperience {
+  color: #d85555;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 970px;
+  top: 1925px;
+  width: 427px;
+  height: 88px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ellipse10 {
+  position: absolute;
+  left: 46px;
+  top: 1890px;
+  width: 221px;
+  height: 225px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.createdAReportThatExplainsTheP {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 303px;
+  top: 1969px;
+  width: 344px;
+  height: 121px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.dataAnalyticsVirtualInternship {
+  color: #d85555;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 268px;
+  top: 1925px;
+  width: 418px;
+  height: 88px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.certifications {
+  color: #d85555;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 1494px;
+  width: 1440px;
+  height: 88px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.projectWork {
+  position: absolute;
+  left: 0;
+  top: 2230px;
+  width: 1440px;
+  height: 88px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 70px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #d85555;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #000;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.ellipse5 {
+  position: absolute;
+  left: 37px;
+  top: 1619px;
+  width: 230px;
+  height: 234px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse9 {
+  position: absolute;
+  left: 720px;
+  top: 1620px;
+  width: 230px;
+  height: 237px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #00000040);
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.azureDataFundamentalsDP900 {
+  color: #d85555;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 950px;
+  top: 1677px;
+  width: 468px;
+  height: 88px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.dP900_Badge1 {
+  position: absolute;
+  left: 79px;
+  top: 1659px;
+  width: 146px;
+  height: 153px;
+  background-image:/* webpackIgnore: true */ url('assets/dP900_Badge1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.azureFundamentalsExamIsAnOppor {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 295px;
+  top: 1722px;
+  width: 340px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.azureFundamentalAZ900 {
+  position: absolute;
+  left: 303px;
+  top: 1677px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock4 {
+  color: #d85555;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #d85555;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.aZ900_badge1 {
+  position: absolute;
+  left: 760px;
+  top: 1660px;
+  width: 149px;
+  height: 158px;
+  background-image:/* webpackIgnore: true */ url('assets/aZ900_badge1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.thisExamIsAnOpportunityToDemon {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 999px;
+  top: 1722px;
+  width: 371px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle16 {
+  position: absolute;
+  left: 102px;
+  top: 2381px;
+  width: 1219px;
+  height: 501px;
+  border-radius: 30px;
+  background-color: #f5f5f5;
+}
+.kPMG1 {
+  position: absolute;
+  left: 76px;
+  top: 1949px;
+  width: 161px;
+  height: 107px;
+  background-image:/* webpackIgnore: true */ url('assets/kPMG1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pwc1 {
+  position: absolute;
+  left: 775px;
+  top: 1937px;
+  width: 135px;
+  height: 116px;
+  background-image:/* webpackIgnore: true */ url('assets/pwc1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vector1 {
+  position: absolute;
+  left: 0;
+  top: 4658px;
+  width: 1440px;
+  height: 73px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.line22 {
+  position: absolute;
+  left: 641px;
+  top: 1587px;
+  width: 158px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.line7 {
+  position: absolute;
+  left: 632px;
+  top: 2340px;
+  width: 158px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.vector2 {
+  position: absolute;
+  left: 0;
+  top: 1364px;
+  width: 1438px;
+  height: 113px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.dataAnalysisUsingPowerBI {
+  color: #000;
+  font-size: 45px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 2412px;
+  width: 1440px;
+  height: 118px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.dataAnalysisOnCustomerDataSet {
+  color: #eb8c00;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 700px;
+  top: 2501px;
+  width: 572px;
+  height: 64px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.theAnalysisWasConductedIn3Phas {
+  position: absolute;
+  left: 700px;
+  top: 2567px;
+  width: 576px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock6 {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.diversityAndInclusionAnalysis1 {
+  position: absolute;
+  left: 138px;
+  top: 2501px;
+  width: 431px;
+  height: 241px;
+  background-image:/* webpackIgnore: true */ url('assets/diversityAndInclusionAnalysis1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.customerChurnAnalysis1 {
+  position: absolute;
+  left: 243px;
+  top: 2604px;
+  width: 414px;
+  height: 226px;
+  background-image:/* webpackIgnore: true */ url('assets/customerChurnAnalysis1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle17 {
+  position: absolute;
+  left: 102px;
+  top: 2906px;
+  width: 1219px;
+  height: 501px;
+  border-radius: 30px;
+  background-color: #f5f5f5;
+}
+.weatherAppByUsingAccuWeatherAP {
+  color: #000;
+  font-size: 45px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  top: 2937px;
+  width: 1440px;
+  height: 118px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.weatherWebapp {
+  color: #eb8c00;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 700px;
+  top: 3028px;
+  width: 565px;
+  height: 64px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.theMainAimToCreateThisProjectW {
+  position: absolute;
+  left: 700px;
+  top: 3092px;
+  width: 572px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock11 {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock12 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock13 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock14 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock15 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock16 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.image1 {
+  position: absolute;
+  left: 186px;
+  top: 3027px;
+  width: 454px;
+  height: 320px;
+  background-image:/* webpackIgnore: true */ url('assets/image1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.myJourney {
+  position: absolute;
+  left: 0;
+  top: 3444px;
+  width: 1440px;
+  height: 99px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 70px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label3 {
+  color: #d85555;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #000;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.line8 {
+  position: absolute;
+  left: 632px;
+  top: 3550px;
+  width: 158px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  box-shadow: 0px 4px 4px 0px #00000040;
+}
+.fusionPracticesPvtLtd {
+  color: #000;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 403px;
+  top: 3640px;
+  width: 1009px;
+  height: 72px;
+  flex-direction: column;
+}
+.cloudSolutionsConsultant {
+  color: #d85555;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 395px;
+  top: 3588px;
+  width: 1009px;
+  height: 149px;
+  flex-direction: column;
+}
+.feb2022ToPresent1Years8Months {
+  position: absolute;
+  left: 186px;
+  top: 3680px;
+  width: 159px;
+  height: 38px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock17 {
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock18 {
+  margin-top: 0;
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.celebalTechnologiesPvtLtd {
+  color: #000;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 403px;
+  top: 3929px;
+  width: 1009px;
+  height: 72px;
+  flex-direction: column;
+}
+.dataEngineeringIntern {
+  color: #d85555;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 403px;
+  top: 3877px;
+  width: 1009px;
+  height: 149px;
+  flex-direction: column;
+}
+.aug2021ToJan20226Months {
+  position: absolute;
+  left: 175px;
+  top: 3958px;
+  width: 181px;
+  height: 59px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock19 {
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock20 {
+  margin-top: 0;
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.batchOf2022 {
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 197px;
+  top: 4226px;
+  width: 137px;
+  height: 18px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.batchOf2018 {
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 174px;
+  top: 4494px;
+  width: 181px;
+  height: 22px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._93781131 {
+  position: absolute;
+  left: 1172px;
+  top: 1056px;
+  width: 58px;
+  height: 61px;
+  background-image:/* webpackIgnore: true */ url('assets/_93781131.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.myRoleAsACloudSolutionConsulta {
+  position: absolute;
+  left: 403px;
+  top: 3677px;
+  width: 844px;
+  height: 167px;
+  flex-direction: column;
+}
+.list {
+  font-size: 16px;
+}
+.list ::marker {
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock21 {
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock22 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock23 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock24 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock25 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock26 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.implementedETLProcessingPipeli {
+  position: absolute;
+  left: 413px;
+  top: 3965px;
+  width: 826px;
+  height: 167px;
+  flex-direction: column;
+}
+.list2 {
+  font-size: 16px;
+}
+.list2 ::marker {
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock27 {
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock28 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock29 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock30 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock31 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock32 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.manipalUniversityJaipur {
+  color: #000;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 403px;
+  top: 4184px;
+  width: 1009px;
+  height: 72px;
+  flex-direction: column;
+}
+.bachelorOfTechnologyInIT {
+  color: #d85555;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 403px;
+  top: 4132px;
+  width: 1009px;
+  height: 149px;
+  flex-direction: column;
+}
+.projectWorkALLOCATIONSYSTEMThi {
+  position: absolute;
+  left: 403px;
+  top: 4220px;
+  width: 826px;
+  height: 180px;
+  flex-direction: column;
+}
+.textBlock33 {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.list3 {
+  font-size: 18px;
+}
+.list3 ::marker {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock34 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.list4 {
+  font-size: 16px;
+}
+.list4 ::marker {
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock35 {
+  margin-top: 0;
+}
+.labelWrapper3 {
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label5 {
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock36 {
+  margin-top: 0;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.modernPublicSchoolBhiwadi {
+  color: #000;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 403px;
+  top: 4462px;
+  width: 1009px;
+  height: 72px;
+  flex-direction: column;
+}
+.highSchool {
+  color: #d85555;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 403px;
+  top: 4410px;
+  width: 1009px;
+  height: 149px;
+  flex-direction: column;
+}
+.xII89FromCBSEBoardInPCMPhysicC {
+  position: absolute;
+  left: 403px;
+  top: 4498px;
+  width: 826px;
+  height: 180px;
+  flex-direction: column;
+}
+.list5 {
+  font-size: 18px;
+}
+.list5 ::marker {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock37 {
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock38 {
+  margin-top: 0;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.corporate1 {
+  position: absolute;
+  left: 224px;
+  top: 3599px;
+  width: 83px;
+  height: 78px;
+  background-image:/* webpackIgnore: true */ url('assets/corporate1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.corporate2 {
+  position: absolute;
+  left: 224px;
+  top: 3877px;
+  width: 83px;
+  height: 78px;
+  background-image:/* webpackIgnore: true */ url('assets/corporate2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.graduate1 {
+  position: absolute;
+  left: 224px;
+  top: 4132px;
+  width: 83px;
+  height: 85px;
+  background-image:/* webpackIgnore: true */ url('assets/graduate1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.school1 {
+  position: absolute;
+  left: 224px;
+  top: 4399px;
+  width: 83px;
+  height: 86px;
+  background-image:/* webpackIgnore: true */ url('assets/school1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
